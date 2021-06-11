@@ -1,0 +1,44 @@
+h1 {
+    color: rgb(255, 255, 255);
+    size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 5px 5px 3px black;
+}
+
+#quote {
+    font-style: italic;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+
+/* this is ID selector */
+
+.para {
+    font-size: 23px
+}
+
+
+/* this is class selector */
+
+body {
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+    width: 600px;
+    border: 4px solid black;
+    background-color: greenyellow;
+}
+
+html {
+    background-color: rgb(190, 4, 135);
+    font-family: 'Open Sans', sans-serif;
+    font-size: large;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
